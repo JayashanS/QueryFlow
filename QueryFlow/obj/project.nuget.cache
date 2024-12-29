@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "8iStkXvut77ccDYPqIK+ek8PK0dMpgVQ/pEU6CRb1a+UWrRHAxPxtH3F72/klq157B7BRVgb1GeLxbmmH9XovA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INT.Himantha\\source\\repos\\QueryFlow\\QueryFlow\\QueryFlow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INT.Himantha\\.nuget\\packages\\graphql\\7.7.2\\graphql.7.7.2.nupkg.sha512",
+    "C:\\Users\\INT.Himantha\\.nuget\\packages\\graphql-parser\\8.4.2\\graphql-parser.8.4.2.nupkg.sha512",
+    "C:\\Users\\INT.Himantha\\.nuget\\packages\\graphql.analyzers\\7.7.2\\graphql.analyzers.7.7.2.nupkg.sha512",
+    "C:\\Users\\INT.Himantha\\.nuget\\packages\\graphql.microsoftdi\\7.7.2\\graphql.microsoftdi.7.7.2.nupkg.sha512",
+    "C:\\Users\\INT.Himantha\\.nuget\\packages\\graphql.server.transports.aspnetcore\\7.6.0\\graphql.server.transports.aspnetcore.7.6.0.nupkg.sha512",
+    "C:\\Users\\INT.Himantha\\.nuget\\packages\\graphql.server.ui.voyager\\7.6.0\\graphql.server.ui.voyager.7.6.0.nupkg.sha512",
+    "C:\\Users\\INT.Himantha\\.nuget\\packages\\graphql.systemtextjson\\7.7.2\\graphql.systemtextjson.7.7.2.nupkg.sha512",
+    "C:\\Users\\INT.Himantha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\INT.Himantha\\.nuget\\packages\\microsoft.extensions.options\\2.0.0\\microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "C:\\Users\\INT.Himantha\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\INT.Himantha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
+    "C:\\Users\\INT.Himantha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

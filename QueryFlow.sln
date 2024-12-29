@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryFlow", "QueryFlow\QueryFlow.csproj", "{418F63FE-E31B-48F9-A12E-EF6B8E6D4FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418F63FE-E31B-48F9-A12E-EF6B8E6D4FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418F63FE-E31B-48F9-A12E-EF6B8E6D4FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418F63FE-E31B-48F9-A12E-EF6B8E6D4FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418F63FE-E31B-48F9-A12E-EF6B8E6D4FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CCC191F-1EE3-4E77-A316-159CE4B06477}
+	EndGlobalSection
+EndGlobal

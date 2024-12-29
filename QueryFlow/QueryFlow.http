@@ -1,0 +1,6 @@
+@QueryFlow_HostAddress = http://localhost:5189
+
+GET {{QueryFlow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
